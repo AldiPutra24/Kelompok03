@@ -11,6 +11,7 @@ namespace NewRepoProject
             fahrul();
             Jundi();
             Gatan();
+            ega();
         }
 
         static void aldi()
@@ -28,6 +29,10 @@ namespace NewRepoProject
         static void Gatan()
         {
             Console.WriteLine("21.11.4351");
+        }
+        static void ega()
+        {
+            Console.WriteLine("21.11.4345");
         }
     }
 
