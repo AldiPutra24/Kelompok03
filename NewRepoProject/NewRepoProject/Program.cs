@@ -10,6 +10,7 @@ namespace NewRepoProject
             aldi();
             fahrul();
             Jundi();
+            Gatan();
         }
 
         static void aldi()
@@ -23,6 +24,10 @@ namespace NewRepoProject
         static void Jundi()
         {
             Console.WriteLine("21.11.4363");
+        }
+        static void Gatan()
+        {
+            Console.WriteLine("21.11.4351");
         }
     }
 
