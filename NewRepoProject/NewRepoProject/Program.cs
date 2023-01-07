@@ -12,6 +12,7 @@ namespace NewRepoProject
             Jundi();
             Gatan();
             ega();
+            Putra();
         }
 
         static void aldi()
@@ -34,6 +35,11 @@ namespace NewRepoProject
         {
             Console.WriteLine("21.11.4345");
         }
+        static void Putra()
+        {
+            Console.WriteLine("21.11.4373");
+        }
+
     }
 
 }
